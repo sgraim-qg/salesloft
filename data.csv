@@ -1,0 +1,206 @@
+,person_id,error,activity_type
+0,170313518,Cannot find person in your CRM,email
+1,170307550,Cannot find person in your CRM,email
+2,39497236,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,phone
+3,39497236,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,
+4,34853900,Not connected to your CRM,email
+5,105564606,Not connected to your CRM,email
+6,105564606,Not connected to your CRM,email
+7,105564606,Not connected to your CRM,email
+8,105564606,Not connected to your CRM,email
+9,146212343,Cannot find person in your CRM,email
+10,55191203,Cannot find person in your CRM,phone
+11,55191203,Cannot find person in your CRM,phone
+12,55191202,Cannot find person in your CRM,phone
+13,98013482,Not connected to your CRM,email
+14,98013482,Not connected to your CRM,email
+15,98013482,Not connected to your CRM,email
+16,172838984,Cannot find person in your CRM,meeting_event
+17,170307550,Cannot find person in your CRM,email
+18,170311605,Cannot find person in your CRM,email
+19,170311605,Cannot find person in your CRM,email
+20,61693295,Not connected to your CRM,email
+21,170313518,Cannot find person in your CRM,email
+22,170315289,Cannot find person in your CRM,email
+23,170314900,Cannot find person in your CRM,email
+24,170314603,Cannot find person in your CRM,email
+25,170313989,Cannot find person in your CRM,email
+26,170313320,Cannot find person in your CRM,email
+27,170312682,Cannot find person in your CRM,email
+28,170311297,Cannot find person in your CRM,email
+29,170309416,Cannot find person in your CRM,email
+30,170309059,Cannot find person in your CRM,email
+31,170308257,Cannot find person in your CRM,email
+32,170306908,Cannot find person in your CRM,email
+33,140474578,Cannot find person in your CRM,phone
+34,146212343,Cannot find person in your CRM,phone
+35,146212343,Cannot find person in your CRM,phone
+36,144834896,Cannot find person in your CRM,phone
+37,39500652,insufficient access rights on cross-reference id: 0034K000004Jpks,meeting_invitee
+38,39500652,insufficient access rights on cross-reference id: 0034K000004Jpks,meeting_invitee
+39,140476940,Cannot find person in your CRM,phone
+40,37332787,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,phone
+41,146210113,Cannot find person in your CRM,email
+42,146212343,Cannot find person in your CRM,email
+43,39497236,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,email
+44,39497236,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,phone
+45,39497236,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,phone
+46,97878465,Not connected to your CRM,email
+47,97878465,Not connected to your CRM,email
+48,97878465,Not connected to your CRM,email
+49,97878465,Not connected to your CRM,email
+50,97878465,Not connected to your CRM,email
+51,97878465,Not connected to your CRM,email
+52,97878465,Not connected to your CRM,email
+53,110677164,Not connected to your CRM,email
+54,97878465,Not connected to your CRM,email
+55,97878465,Not connected to your CRM,email
+56,97878465,Not connected to your CRM,email
+57,97878465,Not connected to your CRM,email
+58,97878465,Not connected to your CRM,email
+59,97878465,Not connected to your CRM,email
+60,145530909,Cannot find person in your CRM,phone
+61,105038833,Cannot find person in your CRM,email
+62,146210113,Cannot find person in your CRM,phone
+63,39497236,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,
+64,37332787,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,phone
+65,37332787,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,email
+66,142348801,Not connected to your CRM,email
+67,146212343,Cannot find person in your CRM,phone
+68,105038833,Cannot find person in your CRM,phone
+69,85762414,Not connected to your CRM,email
+70,85762414,Not connected to your CRM,email
+71,39500210,Not connected to your CRM,email
+72,39500210,Not connected to your CRM,email
+73,39497236,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,phone
+74,39497236,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,phone
+75,44767008,Not connected to your CRM,email
+76,44767008,Not connected to your CRM,email
+77,146064531,Cannot find person in your CRM,email
+78,145526806,Cannot find person in your CRM,email
+79,145528100,Cannot find person in your CRM,email
+80,37332787,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,phone
+81,37332787,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,phone
+82,168974238,Cannot find person in your CRM,email
+83,145530909,Cannot find person in your CRM,phone
+84,37332787,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,phone
+85,50663520,Not connected to your CRM,email
+86,105038833,Cannot find person in your CRM,email
+87,170315566,Cannot find person in your CRM,email
+88,170315289,Cannot find person in your CRM,email
+89,170314900,Cannot find person in your CRM,email
+90,170314603,Cannot find person in your CRM,email
+91,170311763,Cannot find person in your CRM,email
+92,170313989,Cannot find person in your CRM,email
+93,170313518,Cannot find person in your CRM,email
+94,170313320,Cannot find person in your CRM,email
+95,170312682,Cannot find person in your CRM,email
+96,170311605,Cannot find person in your CRM,email
+97,170311297,Cannot find person in your CRM,email
+98,170309416,Cannot find person in your CRM,email
+99,170309059,Cannot find person in your CRM,email
+100,170308257,Cannot find person in your CRM,email
+101,170307550,Cannot find person in your CRM,email
+102,170306908,Cannot find person in your CRM,email
+103,140476940,Cannot find person in your CRM,email
+104,120341542,Cannot find person in your CRM,email
+105,37333320,Not connected to your CRM,email
+106,50658980,Not connected to your CRM,email
+107,146212343,Cannot find person in your CRM,phone
+108,40176666,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,email
+109,105038833,Cannot find person in your CRM,email
+110,168973497,Cannot find person in your CRM,email
+111,168974238,Cannot find person in your CRM,email
+112,140473770,Cannot find person in your CRM,email
+113,168975496,Cannot find person in your CRM,email
+114,168975090,Cannot find person in your CRM,email
+115,168974773,Cannot find person in your CRM,email
+116,53040547,Not connected to your CRM,email
+117,40176666,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,email
+118,145521157,Cannot find person in your CRM,email
+119,146064531,Cannot find person in your CRM,email
+120,105038833,Cannot find person in your CRM,email
+121,145526806,Cannot find person in your CRM,email
+122,145528100,Cannot find person in your CRM,email
+123,168974238,Cannot find person in your CRM,email
+124,168975496,Cannot find person in your CRM,email
+125,168975090,Cannot find person in your CRM,email
+126,168974773,Cannot find person in your CRM,email
+127,168973497,Cannot find person in your CRM,email
+128,39966059,Not connected to your CRM,email
+129,145317299,Cannot find person in your CRM,phone
+130,145317299,Cannot find person in your CRM,phone
+131,105038833,Cannot find person in your CRM,phone
+132,33910862,Not connected to your CRM,email
+133,120311010,Cannot find person in your CRM,phone
+134,59950343,Not connected to your CRM,email
+135,83326092,Cannot find person in your CRM,email
+136,83326092,Cannot find person in your CRM,email
+137,40176666,INVALID_CROSS_REFERENCE_KEY: invalid cross reference id,email
+138,120341542,Cannot find person in your CRM,phone
+139,120341542,Cannot find person in your CRM,phone
+140,146064531,Cannot find person in your CRM,email
+141,65402015,Not connected to your CRM,email
+142,84843733,Not connected to your CRM,email
+143,65402015,Not connected to your CRM,email
+144,140476940,Cannot find person in your CRM,phone
+145,120341542,Cannot find person in your CRM,phone
+146,78139200,Not connected to your CRM,email
+147,137859448,Cannot find person in your CRM,email
+148,105038833,Cannot find person in your CRM,phone
+149,102039847,Not connected to your CRM,email
+150,102039847,INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY: insufficient access rights on object id,email
+151,102039847,Not connected to your CRM,email
+152,102039847,Not connected to your CRM,email
+153,146316047,Cannot find person in your CRM,email
+154,146298047,Cannot find person in your CRM,email
+155,146212343,Cannot find person in your CRM,email
+156,145530909,Cannot find person in your CRM,email
+157,146298047,Cannot find person in your CRM,phone
+158,146212343,Cannot find person in your CRM,phone
+159,105038833,Cannot find person in your CRM,email
+160,39500172,Not connected to your CRM,email
+161,39500172,Not connected to your CRM,email
+162,39500172,Not connected to your CRM,email
+163,145530909,Cannot find person in your CRM,phone
+164,140476940,Cannot find person in your CRM,phone
+165,140476940,Cannot find person in your CRM,email
+166,120311010,Cannot find person in your CRM,email
+167,120331980,Cannot find person in your CRM,email
+168,120341542,Cannot find person in your CRM,email
+169,131263772,Not connected to your CRM,email
+170,131263770,Not connected to your CRM,email
+171,145317299,Cannot find person in your CRM,phone
+172,105038833,Cannot find person in your CRM,email
+173,145526806,Cannot find person in your CRM,email
+174,145528100,Cannot find person in your CRM,email
+175,131263772,Not connected to your CRM,email
+176,105038833,Cannot find person in your CRM,phone
+177,150580670,INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY: insufficient access rights on object id,meeting_event
+178,105038833,Cannot find person in your CRM,email
+179,120331980,Cannot find person in your CRM,phone
+180,120311010,Cannot find person in your CRM,phone
+181,140476940,Cannot find person in your CRM,phone
+182,120341542,Cannot find person in your CRM,phone
+183,140476940,Cannot find person in your CRM,email
+184,120331980,Cannot find person in your CRM,email
+185,120311010,Cannot find person in your CRM,email
+186,120341542,Cannot find person in your CRM,email
+187,51581649,Not connected to your CRM,email
+188,120341542,Cannot find person in your CRM,phone
+189,145317299,Cannot find person in your CRM,phone
+190,145317299,Cannot find person in your CRM,phone
+191,145317299,Cannot find person in your CRM,email
+192,39498057,Not connected to your CRM,email
+193,39498057,Not connected to your CRM,email
+194,100400134,Not connected to your CRM,email
+195,140476940,Cannot find person in your CRM,phone
+196,120341542,Cannot find person in your CRM,phone
+197,120331980,Cannot find person in your CRM,phone
+198,120311010,Cannot find person in your CRM,phone
+199,159741194,ENTITY_IS_DELETED: entity is deleted,phone
+200,145530909,Cannot find person in your CRM,phone
+201,145317299,Cannot find person in your CRM,phone
+202,146064531,Cannot find person in your CRM,email
+203,145528100,Cannot find person in your CRM,email
+204,145526806,Cannot find person in your CRM,email
